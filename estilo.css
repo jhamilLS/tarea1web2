@@ -1,0 +1,48 @@
+.caja1{
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+.caja2{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+.caja3{
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+.sub1{
+    background-color: blueviolet;
+}
+.subo1{
+    background-color: rgb(255, 0, 0);
+    padding: 5px;
+    border: 2px;
+    border-style: groove;
+}
+.subo2{
+    background-color:rgb(210, 57, 30);
+    padding: 10px;
+    border: 2px;
+    border-style: groove;
+}
+.subo3{
+    background-color: rgb(220, 113, 20);
+    padding: 15px;
+    border: 2px;
+    border-style: groove;
+}
+.subo4{
+    background-color:rgb(186, 210, 30);
+    padding: 20px;
+    border: 2px;
+    border-style: groove;
+}
+.subo5{
+    background-color: rgb(77, 220, 20);
+    padding: 25px;
+    border: 2px;
+    border-style: groove;
+}
